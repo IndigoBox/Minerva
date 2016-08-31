@@ -1,0 +1,36 @@
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\bin\Debug\Minerva.exe.config
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Minerva.csprojResolveAssemblyReference.cache
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Minerva.Main.resources
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Minerva.Properties.Resources.resources
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Minerva.csproj.GenerateResource.Cache
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\bin\Debug\Minerva.exe
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\bin\Debug\Minerva.pdb
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Minerva.exe
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Minerva.pdb
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Interop.SpeechLib.dll
+c:\users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Minerva.csproj.ResolveComReference.cache
+C:\Users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\bin\Debug\Interop.WMPLib.dll
+C:\Users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\Interop.WMPLib.dll
+C:\Users\vkoves\documents\visual studio 2012\Projects\Minerva\Minerva\obj\Debug\AxInterop.WMPLib.dll
+C:\Minerva\Minerva\bin\Debug\Minerva.exe.config
+C:\Minerva\Minerva\obj\Debug\Interop.SpeechLib.dll
+C:\Minerva\Minerva\obj\Debug\Interop.WMPLib.dll
+C:\Minerva\Minerva\obj\Debug\AxInterop.WMPLib.dll
+C:\Minerva\Minerva\obj\Debug\Minerva.csproj.ResolveComReference.cache
+C:\Minerva\Minerva\obj\Debug\Minerva.exe
+C:\Minerva\Minerva\obj\Debug\Minerva.pdb
+C:\Minerva\Minerva\bin\Debug\Minerva.exe
+C:\Minerva\Minerva\bin\Debug\Minerva.pdb
+C:\Minerva\Minerva\bin\Debug\Interop.WMPLib.dll
+C:\Minerva\Minerva\bin\Debug\AxInterop.WMPLib.dll
+C:\Minerva\Minerva\obj\Debug\Minerva.csprojResolveAssemblyReference.cache
+C:\Minerva\Minerva\obj\Debug\Minerva.Main.resources
+C:\Minerva\Minerva\obj\Debug\Minerva.Properties.Resources.resources
+C:\Minerva\Minerva\obj\Debug\Minerva.csproj.GenerateResource.Cache
+C:\Minerva\Minerva\obj\Debug\Minerva.FullScreenButWhy.resources
+C:\Minerva\Minerva\obj\Debug\Minerva.MinervaSide.resources
+C:\Minerva\Minerva\bin\Debug\Minerva.exe.manifest
+C:\Minerva\Minerva\bin\Debug\Minerva.application
+C:\Minerva\Minerva\obj\Debug\Minerva.exe.manifest
+C:\Minerva\Minerva\obj\Debug\Minerva.application
